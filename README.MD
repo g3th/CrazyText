@@ -1,6 +1,10 @@
 **cRaZy TeXt**
---------------------------------------------------
+------------------------------------------------------------------
+***Text scroller using recursion and randomized colours header***
+------------------------------------------------------------------
 
-It uses recursion, but it was suggested that it's probably better to use a loop (i.e. for i in range).
+It was suggested that it's probably better to use a loop (i.e. for i in range).
 
-It's fun and colourful nonetheless.
+I wrote it to learn how a simple recursive function works, and how to add a base case.
+
+It's fun and colourful nonetheless, so I thought I would put it on the repo.
