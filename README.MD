@@ -3,7 +3,7 @@
 ***Text scroller using recursion and randomized colours header***
 ------------------------------------------------------------------
 
-![Alt text](assets/crazy.GIF)
+![Alt text](assets/crz.GIF)
 
 It was suggested that it's probably better to use a loop (i.e. for i in range).
 
