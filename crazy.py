@@ -1,9 +1,9 @@
 import time
 from header import header
 
-print('\x1bc')
-	
+
 while True:
+	print('\x1bc')
 	header()
 	try:		
 		crazy = input('Enter text: ')
@@ -14,7 +14,6 @@ while True:
 			speed = '{:.2f}'.format(speed/100)
 			break
 	except Exception:
-		print("error")
 		pass
 	
 def string(s):
